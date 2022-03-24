@@ -1,2 +1,4 @@
 Name : Mughal Srikanth
 id : 123456
+office : Divergent 
+location : manikonda
